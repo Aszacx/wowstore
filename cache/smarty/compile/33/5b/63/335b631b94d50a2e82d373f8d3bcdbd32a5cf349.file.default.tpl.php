@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-05-02 11:52:17
+<?php /* Smarty version Smarty-3.1.14, created on 2015-05-02 21:55:16
          compiled from "/homepages/15/d548348874/htdocs/wowstore/prestashop/themes/leoconv/modules/leobtslidermini/themes/default/default.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:4181067685544a20fdba971-41564255%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '335b631b94d50a2e82d373f8d3bcdbd32a5cf349' => 
     array (
       0 => '/homepages/15/d548348874/htdocs/wowstore/prestashop/themes/leoconv/modules/leobtslidermini/themes/default/default.tpl',
-      1 => 1430584651,
+      1 => 1430589660,
       2 => 'file',
     ),
   ),
